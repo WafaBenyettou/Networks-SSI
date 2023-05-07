@@ -6,7 +6,7 @@
  
 int main(){
  
-  char *ip = "10.2.15";
+  char *ip = "..";
   int port = 5566;
  
   int sock;

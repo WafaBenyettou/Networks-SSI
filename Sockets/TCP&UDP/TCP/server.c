@@ -6,7 +6,7 @@
  
 int main(){
  
-  char *ip = "193";
+  char *ip = "";
   int port = 5566;
  
   int server_sock, client_sock;
